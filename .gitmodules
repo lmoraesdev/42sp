@@ -1,0 +1,36 @@
+[submodule "fase1/Libft"]
+	path = fase1/Libft
+	url = https://github.com/lmoraesdev/Libft.git
+[submodule "fase1/GNL"]
+	path = fase1/GNL
+	url = https://github.com/lmoraesdev/GNL.git
+[submodule "fase1/Printf"]
+	path = fase1/Printf
+	url = https://github.com/lmoraesdev/Printf.git
+[submodule "fase1/Born2beRoot"]
+	path = fase1/Born2beRoot
+	url = https://github.com/lmoraesdev/Born2beRoot.git
+[submodule "fase1/so_long"]
+	path = fase1/so_long
+	url = https://github.com/lmoraesdev/so_long.git
+[submodule "fase1/pipex"]
+	path = fase1/pipex
+	url = https://github.com/lmoraesdev/pipex.git
+[submodule "fase2/Push_Swap"]
+	path = fase2/Push_Swap
+	url = https://github.com/lmoraesdev/Push_Swap.git
+[submodule "fase2/minishell"]
+	path = fase2/minishell
+	url = https://github.com/lmoraesdev/minishell.git
+[submodule "fase2/Philosophers"]
+	path = fase2/Philosophers
+	url = https://github.com/lmoraesdev/Philosophers.git
+[submodule "fase2/netpractice"]
+	path = fase2/netpractice
+	url = https://github.com/lmoraesdev/netpractice.git
+[submodule "fase2/cub3D"]
+	path = fase2/cub3D
+	url = https://github.com/lmoraesdev/cub3D.git
+[submodule "fase3/CPP"]
+	path = fase3/CPP
+	url = https://github.com/lmoraesdev/CPP.git
