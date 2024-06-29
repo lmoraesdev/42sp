@@ -37,3 +37,6 @@
 [submodule "fase3/webserv"]
 	path = fase3/webserv
 	url = https://github.com/lmoraesdev/webserv
+[submodule "fase3/inception"]
+	path = fase3/inception
+	url = https://github.com/lmoraesdev/inception
