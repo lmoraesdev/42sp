@@ -34,3 +34,6 @@
 [submodule "fase3/CPP"]
 	path = fase3/CPP
 	url = https://github.com/lmoraesdev/CPP.git
+[submodule "fase3/webserv"]
+	path = fase3/webserv
+	url = https://github.com/lmoraesdev/webserv
